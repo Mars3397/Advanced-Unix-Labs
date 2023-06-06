@@ -3,9 +3,8 @@
 UP111 Labs
 ===========
 
-```warning
-The VM image deployed in the PC classroom can be downloaded from [here](https://drive.google.com/file/d/1n_VS-eoIxQhHVPYc_Zf6VJQHKsVgiB48/view?usp=sharing).
-```
+> Success
+> The VM image deployed in the PC classroom can be downloaded from [here](https://drive.google.com/file/d/1n_VS-eoIxQhHVPYc_Zf6VJQHKsVgiB48/view?usp=sharing).
 
 :::info
 The online chat room is on discord. Please join the server via the [[invitation link]]().

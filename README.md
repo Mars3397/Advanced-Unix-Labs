@@ -3,37 +3,25 @@
 UP111 Labs
 ===========
 
-> 👍 Success
-> 
-> The VM image deployed in the PC classroom can be downloaded from [here](https://drive.google.com/file/d/1n_VS-eoIxQhHVPYc_Zf6VJQHKsVgiB48/view?usp=sharing).
+The VM image deployed in the PC classroom can be downloaded from [here](https://drive.google.com/file/d/1n_VS-eoIxQhHVPYc_Zf6VJQHKsVgiB48/view?usp=sharing).
 
-:::info
 The online chat room is on discord. Please join the server via the [[invitation link]]().
-:::
 
-:::success
 **Grading Policy**
 #1 Demo onsite: 105% of the points
 #2 Demo in the next class: 90% of the points
 #3 Late submission (within two weeks): 70% of the points
 
 <!--***Note*** that if you cannot attend the class due to COVID to demo your implementation, you can upload your codes (packed in a ZIP file) to the E3 system (please select the correct lab week to upload) ***before the demo deadline***. We can then schedule your demo in our available lab lecture class using the version you uploaded to the E3 system.-->
-:::
 
-:::warning
 ***For Apple Chip Users (M1/M2)***: You may need to install Rosetta 2 to run pre-compile binaries from our test cases. To install it from a terminal, you may try this command:
 ``/usr/sbin/softwareupdate --install-rosetta --agree-to-license``
-:::
 
-:::danger
 The links to labs will only be accessible after the lab officially starts.
-:::
 
-:::warning
 Our next few labs may require the `pwntools` package. You can install it by reading the installation document listed below. Some labs also require ***proof of work (PoW)*** before accessing the lab servers. Please read the PoW document to see how it works.
 - [Install `pwntools`](https://md.zoolab.org/s/EleTCdAQ5)
 - [Proof of Work (PoW)](https://md.zoolab.org/s/EHSmQ0szV)
-:::
 
 1. 2023-02-20: Course introduction.
 
